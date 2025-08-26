@@ -1,12 +1,15 @@
 ## Trabalho com sensores
 
 ## Sobre o Projeto
-Repositorio designado aos projeto utilizando wokwi
+Repositorio designado aos projetos realizado em aula
+
+## Grupo
+- Bryan
+- Nicolas
+- Fabricio
 
 
 
-
-0
 ## Fotos Projeto Sensor De luminosidade
 ![alt text](<Sensor de luminosidade wokwi.png>)
 
@@ -14,5 +17,6 @@ Repositorio designado aos projeto utilizando wokwi
 
 ## Foto Projeto Sensor Proximidade
 ![alt text](<Ultrasonico.png>)
+
 
 
