@@ -13,5 +13,6 @@ Repositorio designado aos projeto utilizando wokwi
 
 
 ## Foto Projeto Sensor Proximidade
-![alt text](ultrasonico.png)
+![alt text](<Ultrasonico.png>)
+
 
