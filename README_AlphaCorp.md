@@ -1,9 +1,11 @@
 # Trabalho com sensores
 
 ## Sobre o Projeto:
-### Repositorio designado aos projetos realizado em aula
+### Repositorio designado ao projeto Alpha Corp, realizado em aula
 ---
 ## Grupo
 Bryan
 Nicolas
 Fabricio
+
+# Vídeo do projeto Alpha Corp:
