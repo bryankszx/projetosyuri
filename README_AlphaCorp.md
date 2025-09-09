@@ -2,7 +2,6 @@
 
 ## Sobre o Projeto:
 ### Repositorio designado ao projeto Alpha Corp, realizado em aula
----
 ## Grupo
 Bryan
 Nicolas
