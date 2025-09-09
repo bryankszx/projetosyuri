@@ -1,6 +1,6 @@
 # Trabalho com sensores
-## Sobre o Projeto:
 
+Sobre o Projeto:
 Repositorio designado aos projetos realizado em aul
 ---
 ## Grupo
